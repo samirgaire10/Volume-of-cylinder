@@ -3,7 +3,14 @@ Volume_of_cylinder
 
 compile  c file 
 
-gcc -o Volume-of-cylinder.o  Volume-of-cylinder.c
+```
+function test() {
+  console.log("gcc -o Volume-of-cylinder.o  Volume-of-cylinder.c
+");
+}
+```
+
+
 
 Run file 
 
