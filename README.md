@@ -10,4 +10,4 @@ Run file
 ./Volume-of-cylinder.o
 
 
-  ![image text](/Volume_of_cylinderpng.png)
+  ![image](/Volume_of_cylinderpng.png)
